@@ -28,7 +28,7 @@ I want to pick my favourite films from a list
 ```
 As a Film Enthusiast
 So I know which films a re good and which are bad
-I want to Score / Rate movies
+I want to rank movies in order
 ```
 
 ```
@@ -39,7 +39,7 @@ I want to persist only my top 5 to a database
 
 ```
 As a Film Enthusiast
-So I can cahnge my mind
+So I can change my mind
 I want to be able to re-order my ranking list
 ```
 
