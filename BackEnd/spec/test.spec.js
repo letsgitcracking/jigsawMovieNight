@@ -7,7 +7,7 @@ describe('Testing', () => {
   describe('#Test', () => {
     describe('.success', () => {
       it('runs the test suite', () => {
-        true.should.eql(true);
+        true.should.eql("WOOOOoooooo testing!! We love testing.. you'd better not ignore me :)");
       });
     });
   });
